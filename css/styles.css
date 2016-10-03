@@ -1,6 +1,46 @@
+.navbar
+{
+	background-color:#FFF;
+}
 .jumbotron
 {
   background-image: url(../img/hero.jpg);
   background-size: cover;
   background-position: center;
+  height: 25em;
+}
+#name
+{
+  font-family: alex-brush, cursive;
+  color:#FD837E;
+  font-size:18px;
+}
+#container
+{
+	height:25em;
+	margin-bottom:200px;
+}
+#row, #row2
+{
+	margin-left:10em;
+}
+.products
+{
+  background-color: #EDF1F4;
+  margin: .55em;
+  padding: 10px;
+}
+.panel, .panel-footer
+{
+	background-color:#231F20;
+}
+#logo
+{
+  display: block;
+  margin: auto;
+}
+.line
+{
+  border-left: 1px solid #50504D;
+  color: #BFC0B8;
 }
