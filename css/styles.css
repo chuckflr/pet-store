@@ -9,11 +9,16 @@
   background-position: center;
   height: 25em;
 }
+.jumbotron>p
+{
+  color: white;
+  margin-top: 2em;
+}
 #name
 {
-  font-family: alex-brush, cursive;
+  font-family: 'Satisfy', cursive;
   color:#FD837E;
-  font-size:18px;
+  font-size:22px;
 }
 #container
 {
@@ -43,4 +48,9 @@
 {
   border-left: 1px solid #50504D;
   color: #BFC0B8;
+}
+.navLink
+{
+  color: #007FFF !important;
+  background-color: #FFF;
 }
